@@ -7,9 +7,23 @@ routes = [
     path: '/about/',
     url: './pages/about.html',
   },
+  
+  // Page Kapitler
   {
-    path: '/form/',
-    url: './pages/form.html',
+    path: '/01/',
+    url: './pages/01.html',
+  },
+  {
+    path: '/02/',
+    url: './pages/02.html',
+  },
+  {
+    path: '/03/',
+    url: './pages/03.html',
+  },
+  {
+    path: '/04/',
+    url: './pages/04.html',
   },
   // Page Loaders & Router
   {

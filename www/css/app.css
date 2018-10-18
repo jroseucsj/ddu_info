@@ -1,1 +1,30 @@
 /* Your app styles here */
+#app{
+    background-color: #ffffff !important;
+
+}
+.navbar {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6224b5+0,d657d6+100 */
+    background-color: #6224b5 !important; /* Old browsers */
+    background: -moz-linear-gradient(45deg, #6224b5 0%, #d657d6 100%) !important; /* FF3.6-15 */
+    background: -webkit-linear-gradient(45deg, #6224b5 0%,#d657d6 100%) !important; /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(45deg, #6224b5 0%,#d657d6 100%) !important; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6224b5', endColorstr='#d657d6',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+    color: #ffffff !important;
+}
+h1 {
+    color: black !important; 
+
+}
+.block-ul ul{
+    display: block !important;
+    list-style-type: disc !important;
+    margin-top: 1em !important;
+    margin-bottom: 1 em !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    padding-left: 40px !important;
+}
+.block-li li{
+    display: list-item !important;
+}
